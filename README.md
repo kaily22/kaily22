@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kaily22/kaily22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Welcome to my github!&fontSize=70&animation=fadeIn& $" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&text=Welcome to my github!&fontSize=60&animation=fadeIn& $" />
+
+
+# 💻 Tech Stack 💻 
+### Techs that I've used once
 
