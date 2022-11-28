@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&text='Welcome to my github!&fontSize=60&animation=fadeIn& $" /></a>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&text=Welcom!&fontsize=60&animation=fadeIn"alt="header"/>
 <h2 align = "center"> <b>Hello I'm Seung Hyun, Thank you for visiting my github!</b></h2>
 <h2 align="center"> 💻 Tech Stack 💻 </h2> 
 <p align="center"> Techs that I've used once </p>
